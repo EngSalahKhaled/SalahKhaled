@@ -157,3 +157,6 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+### 🤖 AI & Generative AI Certifications
+- **Google Gemini AI for Educators** - [https://edu.google.accredible.com/8cb3faf0-8460-41d6-886f-20b0aee2add0](#)
+- **Gemini Certified Faculty Member** - [https://edu.google.accredible.com/96b3b196-b209-4c16-982b-0dd99d5e341b#acc.Z9QagoDY](#)
